@@ -13,7 +13,7 @@ namespace Business.Constants.Messages
         public static string WordAddFailed = "Word Insertion Failed";
         public static string UserAddSuccesfull = "User Successfully Added";
         public static string UserAddFailed = "User Insertion Failed";
-        
+        public static string UserUpdateSuccesfull = "User Successfully Added";
    
     }
 }

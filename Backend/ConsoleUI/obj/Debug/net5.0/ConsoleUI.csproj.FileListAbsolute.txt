@@ -1,0 +1,16 @@
+D:\LangLearn\Backend\ConsoleUI\bin\Debug\net5.0\ConsoleUI.exe
+D:\LangLearn\Backend\ConsoleUI\bin\Debug\net5.0\ConsoleUI.deps.json
+D:\LangLearn\Backend\ConsoleUI\bin\Debug\net5.0\ConsoleUI.runtimeconfig.json
+D:\LangLearn\Backend\ConsoleUI\bin\Debug\net5.0\ConsoleUI.runtimeconfig.dev.json
+D:\LangLearn\Backend\ConsoleUI\bin\Debug\net5.0\ConsoleUI.dll
+D:\LangLearn\Backend\ConsoleUI\bin\Debug\net5.0\ref\ConsoleUI.dll
+D:\LangLearn\Backend\ConsoleUI\bin\Debug\net5.0\ConsoleUI.pdb
+D:\LangLearn\Backend\ConsoleUI\obj\Debug\net5.0\ConsoleUI.csproj.AssemblyReference.cache
+D:\LangLearn\Backend\ConsoleUI\obj\Debug\net5.0\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\LangLearn\Backend\ConsoleUI\obj\Debug\net5.0\ConsoleUI.AssemblyInfoInputs.cache
+D:\LangLearn\Backend\ConsoleUI\obj\Debug\net5.0\ConsoleUI.AssemblyInfo.cs
+D:\LangLearn\Backend\ConsoleUI\obj\Debug\net5.0\ConsoleUI.csproj.CoreCompileInputs.cache
+D:\LangLearn\Backend\ConsoleUI\obj\Debug\net5.0\ConsoleUI.dll
+D:\LangLearn\Backend\ConsoleUI\obj\Debug\net5.0\ref\ConsoleUI.dll
+D:\LangLearn\Backend\ConsoleUI\obj\Debug\net5.0\ConsoleUI.pdb
+D:\LangLearn\Backend\ConsoleUI\obj\Debug\net5.0\ConsoleUI.genruntimeconfig.cache

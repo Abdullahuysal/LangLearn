@@ -1,0 +1,15 @@
+D:\LangLearn\Backend\Entities\bin\Debug\net5.0\Entities.deps.json
+D:\LangLearn\Backend\Entities\bin\Debug\net5.0\Entities.dll
+D:\LangLearn\Backend\Entities\bin\Debug\net5.0\ref\Entities.dll
+D:\LangLearn\Backend\Entities\bin\Debug\net5.0\Entities.pdb
+D:\LangLearn\Backend\Entities\bin\Debug\net5.0\Core.dll
+D:\LangLearn\Backend\Entities\bin\Debug\net5.0\Core.pdb
+D:\LangLearn\Backend\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+D:\LangLearn\Backend\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\LangLearn\Backend\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+D:\LangLearn\Backend\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+D:\LangLearn\Backend\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+D:\LangLearn\Backend\Entities\obj\Debug\net5.0\Entities.csproj.CopyComplete
+D:\LangLearn\Backend\Entities\obj\Debug\net5.0\Entities.dll
+D:\LangLearn\Backend\Entities\obj\Debug\net5.0\ref\Entities.dll
+D:\LangLearn\Backend\Entities\obj\Debug\net5.0\Entities.pdb
