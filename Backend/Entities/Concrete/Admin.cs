@@ -10,9 +10,9 @@ namespace Entities.Concrete
     public class Admin:IEntity
     {
         public int AdminId { get; set; }
-        public int AdminFirstName { get; set; }
-        public int AdminSecondName { get; set; }
-        public int AdminPassword { get; set; }
+        public string AdminFirstName { get; set; }
+        public string AdminSecondName { get; set; }
+        public string AdminPassword { get; set; }
 
     }
 }
