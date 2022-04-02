@@ -1,4 +1,5 @@
-﻿using DataAccess.Abstract;
+﻿using Core.DataAccess.EntityFramework;
+using DataAccess.Abstract;
 using Entities.Concrete;
 using System;
 using System.Collections.Generic;
@@ -9,31 +10,8 @@ using System.Threading.Tasks;
 
 namespace DataAccess.Concrete.EntityFramework
 {
-    public class EfAdminDal : IAdminDal
+    public class EfAdminDal : EfEntityRepositoryBase<Admin, LangLearnContext>, IAdminDal
     {
-        public void Add(Admin entity)
-        {
-            throw new NotImplementedException();
-        }
-
-        public void Delete(Admin entity)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Admin Get(Expression<Func<Admin, bool>> filter)
-        {
-            throw new NotImplementedException();
-        }
-
-        public List<Admin> GetAll(Expression<Func<Admin, bool>> filter = null)
-        {
-            throw new NotImplementedException();
-        }
-
-        public void Update(Admin entity)
-        {
-            throw new NotImplementedException();
-        }
+       
     }
 }

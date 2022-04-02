@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DataAccess.Concrete.EntityFramework
 {
-    public class LangLearnDbContext:DbContext
+    public class LangLearnContext:DbContext
     {
         
 

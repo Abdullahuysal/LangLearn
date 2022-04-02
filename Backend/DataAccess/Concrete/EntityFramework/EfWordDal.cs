@@ -1,4 +1,5 @@
-﻿using DataAccess.Abstract;
+﻿using Core.DataAccess.EntityFramework;
+using DataAccess.Abstract;
 using Entities.Concrete;
 using System;
 using System.Collections.Generic;
@@ -9,29 +10,8 @@ using System.Threading.Tasks;
 
 namespace DataAccess.Concrete.EntityFramework
 {
-    public class EfWordDal : IWordDal
+    public class EfWordDal : EfEntityRepositoryBase<Word, LangLearnContext>,IWordDal
     {
-        public Word Get(Expression<Func<Word, bool>> filter)
-        {
-            throw new NotImplementedException();
-        }
-
-        public List<Word> GetAll(Expression<Func<Word, bool>> filter = null)
-        {
-            throw new NotImplementedException();
-        }
-        public void Add(Word entity)
-        {
-            throw new NotImplementedException();
-        }
-
-        public void Delete(Word entity)
-        {
-            throw new NotImplementedException();
-        }
-        public void Update(Word entity)
-        {
-            throw new NotImplementedException();
-        }
+       
     }
 }
